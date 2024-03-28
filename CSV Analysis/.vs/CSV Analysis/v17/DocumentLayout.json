@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Foxy\\source\\repos\\CSV Analysis\\",
+  "WorkspaceRootPath": "D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22EF6D7E-610D-4EE3-9344-52D4BD9E3207}|CSV Analysis\\CSV Analysis.csproj|c:\\users\\foxy\\source\\repos\\csv analysis\\csv analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22EF6D7E-610D-4EE3-9344-52D4BD9E3207}|CSV Analysis\\CSV Analysis.csproj|d:\\projects\\wolfram bs\\second try\\csvdatasetreaderandtransformer\\csv analysis\\csv analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22EF6D7E-610D-4EE3-9344-52D4BD9E3207}|CSV Analysis\\CSV Analysis.csproj|solutionrelative:csv analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22EF6D7E-610D-4EE3-9344-52D4BD9E3207}|CSV Analysis\\CSV Analysis.csproj|c:\\users\\foxy\\source\\repos\\csv analysis\\csv analysis\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22EF6D7E-610D-4EE3-9344-52D4BD9E3207}|CSV Analysis\\CSV Analysis.csproj|D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\csv analysis\\testdata\\calculator_reduced.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22EF6D7E-610D-4EE3-9344-52D4BD9E3207}|CSV Analysis\\CSV Analysis.csproj|solutionrelative:csv analysis\\testdata\\calculator_reduced.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EF6D7E-610D-4EE3-9344-52D4BD9E3207}|CSV Analysis\\CSV Analysis.csproj|D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\csv analysis\\testdata\\calculator.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22EF6D7E-610D-4EE3-9344-52D4BD9E3207}|CSV Analysis\\CSV Analysis.csproj|solutionrelative:csv analysis\\testdata\\calculator.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EF6D7E-610D-4EE3-9344-52D4BD9E3207}|CSV Analysis\\CSV Analysis.csproj|D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\csv analysis\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22EF6D7E-610D-4EE3-9344-52D4BD9E3207}|CSV Analysis\\CSV Analysis.csproj|solutionrelative:csv analysis\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,25 +35,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "calculator_reduced.csv",
+              "DocumentMoniker": "D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\CSV Analysis\\TestData\\calculator_reduced.csv",
+              "RelativeDocumentMoniker": "CSV Analysis\\TestData\\calculator_reduced.csv",
+              "ToolTip": "D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\CSV Analysis\\TestData\\calculator_reduced.csv",
+              "RelativeToolTip": "CSV Analysis\\TestData\\calculator_reduced.csv",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-03-28T12:38:44.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "calculator.csv",
+              "DocumentMoniker": "D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\CSV Analysis\\TestData\\calculator.csv",
+              "RelativeDocumentMoniker": "CSV Analysis\\TestData\\calculator.csv",
+              "ToolTip": "D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\CSV Analysis\\TestData\\calculator.csv",
+              "RelativeToolTip": "CSV Analysis\\TestData\\calculator.csv",
+              "ViewState": "AQIAAEEDAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-03-28T12:21:29.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Model.cs",
-              "DocumentMoniker": "C:\\Users\\Foxy\\source\\repos\\CSV Analysis\\CSV Analysis\\Model.cs",
+              "DocumentMoniker": "D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\CSV Analysis\\Model.cs",
               "RelativeDocumentMoniker": "CSV Analysis\\Model.cs",
-              "ToolTip": "C:\\Users\\Foxy\\source\\repos\\CSV Analysis\\CSV Analysis\\Model.cs",
+              "ToolTip": "D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\CSV Analysis\\Model.cs",
               "RelativeToolTip": "CSV Analysis\\Model.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBcAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T09:37:31.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T09:37:31.591Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Foxy\\source\\repos\\CSV Analysis\\CSV Analysis\\Program.cs",
+              "DocumentMoniker": "D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\CSV Analysis\\Program.cs",
               "RelativeDocumentMoniker": "CSV Analysis\\Program.cs",
-              "ToolTip": "C:\\Users\\Foxy\\source\\repos\\CSV Analysis\\CSV Analysis\\Program.cs",
+              "ToolTip": "D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\CSV Analysis\\Program.cs",
               "RelativeToolTip": "CSV Analysis\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAiwFQAAAA1AAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T09:28:18.821Z",
               "EditorCaption": ""

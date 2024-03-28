@@ -14,8 +14,8 @@ namespace CSV_Analysis
     {
         private static void Main(string[] args)
         {
-            string csvToAnalyseFilePath = "C:\\Users\\Foxy\\source\\repos\\CSV Analysis\\CSV Analysis\\TestData\\calculator.csv";
-            string outputPath = "C:\\Users\\Foxy\\source\\repos\\CSV Analysis\\CSV Analysis\\TestData\\calculator_reduced.csv";
+            string csvToAnalyseFilePath = AppDomain.CurrentDomain.BaseDirectory + "..\\..\\..\\" + "TestData\\calculator.csv";
+            string outputPath = AppDomain.CurrentDomain.BaseDirectory + "..\\..\\..\\" + "\\TestData\\calculator_reduced.csv";
             //header row
             //Created at	Closed at	Updated at	State	Labels	Comments	Number	Title	Url	Html url	Body	User name	User email	Milestone created at	Milestone due on	Milestone descrtiption	Milestone state	Milestone title
 
@@ -30,7 +30,7 @@ namespace CSV_Analysis
                 Delimiter = "\t"
             };
 
-            using var reader  = new StreamReader(csvToAnalyseFilePath);
+            using var reader = new StreamReader(csvToAnalyseFilePath);
             using var csvInput = new CsvReader(reader, config);
 
             var allRecords = csvInput.GetRecords<Model>();
@@ -39,7 +39,7 @@ namespace CSV_Analysis
             int selectedRowsNumber = 0;
             foreach (var record in allRecords)
             {
-                
+
                 if (record.Labels.Contains("fixed") ||
                     record.Labels.Contains("fixing") ||
                     record.Labels.Contains("bug"))
@@ -48,16 +48,18 @@ namespace CSV_Analysis
                     reducedRecords.Add(record);
                     selectedRowsNumber++;
                 }
-                
+
                 totalRowsNumber++;
             }
 
             Dictionary<DateTime, int> faultsPerDay = new Dictionary<DateTime, int>();
+            Dictionary<DateTime, int> faultsPerWeek = new Dictionary<DateTime, int>();
+            Dictionary<(int, int), int> faultsPerMonth = new Dictionary<(int, int), int>();
 
-            reducedRecords = reducedRecords.OrderBy(i => i.CreatedAtConverted).ToList();
+            // reducedRecords = reducedRecords.OrderBy(i => i.CreatedAtConverted.Date).ToList();
             foreach (var record in reducedRecords)
             {
-                if(faultsPerDay.ContainsKey(record.CreatedAtConverted.Date)) 
+                if (faultsPerDay.ContainsKey(record.CreatedAtConverted.Date))
                 {
                     faultsPerDay[record.CreatedAtConverted.Date]++;
                 }
@@ -65,7 +67,18 @@ namespace CSV_Analysis
                 {
                     faultsPerDay.Add(record.CreatedAtConverted.Date, 1);
                 }
+
+                if (faultsPerMonth.ContainsKey((record.CreatedAtConverted.Year, record.CreatedAtConverted.Month)))
+                {
+                    faultsPerMonth[(record.CreatedAtConverted.Year, record.CreatedAtConverted.Month)]++;
+                }
+                else
+                {
+                    faultsPerMonth.Add((record.CreatedAtConverted.Year, record.CreatedAtConverted.Month), 1);
+                }
             }
+
+
 
             Dictionary<int, int> dayAccumulatedFaults = new Dictionary<int, int>();
             int dayCounter = 1;
@@ -77,17 +90,27 @@ namespace CSV_Analysis
                 dayAccumulatedFaults.Add(dayCounter, accumulatedFaults);
                 dayCounter++;
             }
+            accumulatedFaults = 0;
+            foreach (var month in faultsPerMonth)
+            {
+                accumulatedFaults += month.Value;
+                Console.WriteLine("Month: " + month.Key + " | Accumulated faults: " + accumulatedFaults);
+            }
 
             using var writer = new StreamWriter(outputPath);
             using var csvOutput = new CsvWriter(writer, config);
 
             csvOutput.WriteRecords(reducedRecords);
-            foreach (var day in dayAccumulatedFaults)
-            {
-                Console.WriteLine(day.Key + " - " + day.Value);
-            }
-            Console.WriteLine("Total rows: " + totalRowsNumber);
-            Console.WriteLine("Selected rows: " + selectedRowsNumber);
+            //foreach (var day in dayAccumulatedFaults)
+            //{
+            //    Console.WriteLine("Day: " + day.Key + " | Accumulated faults: " + day.Value);
+            //}
+            //foreach (var month in faultsPerMonth)
+            //{
+            //    Console.WriteLine("Month: " + month.Key + " | Accumulated faults: " + month.Value);
+            //}
+            // Console.WriteLine("Total rows: " + totalRowsNumber);
+            // Console.WriteLine("Selected rows: " + selectedRowsNumber);
         }
     }
 }

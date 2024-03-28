@@ -15,3 +15,39 @@ C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\refint\CSV
 C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.pdb
 C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.genruntimeconfig.cache
 C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\ref\CSV Analysis.dll
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.exe
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.deps.json
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.runtimeconfig.json
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.dll
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.pdb
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CsvHelper.dll
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.csproj.AssemblyReference.cache
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.AssemblyInfoInputs.cache
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.AssemblyInfo.cs
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.csproj.CoreCompileInputs.cache
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.sourcelink.json
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Anal.7F8CF111.Up2Date
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.dll
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\refint\CSV Analysis.dll
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.pdb
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.genruntimeconfig.cache
+D:\Projects\wolfram bs\big proj\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\ref\CSV Analysis.dll
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.exe
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.deps.json
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.runtimeconfig.json
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.dll
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.pdb
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CsvHelper.dll
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.csproj.AssemblyReference.cache
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.AssemblyInfoInputs.cache
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.AssemblyInfo.cs
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.csproj.CoreCompileInputs.cache
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.sourcelink.json
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Anal.7F8CF111.Up2Date
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.dll
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\refint\CSV Analysis.dll
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.pdb
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.genruntimeconfig.cache
+D:\Projects\wolfram bs\second try\CsvDatasetReaderAndTransformer\CSV Analysis\CSV Analysis\obj\Debug\net8.0\ref\CSV Analysis.dll
