@@ -1,0 +1,17 @@
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.exe
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.deps.json
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.runtimeconfig.json
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.dll
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CSV Analysis.pdb
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.csproj.AssemblyReference.cache
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.AssemblyInfoInputs.cache
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.AssemblyInfo.cs
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Anal.7F8CF111.Up2Date
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.dll
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\refint\CSV Analysis.dll
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.pdb
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\CSV Analysis.genruntimeconfig.cache
+C:\Users\Foxy\source\repos\CSV Analysis\CSV Analysis\obj\Debug\net8.0\ref\CSV Analysis.dll

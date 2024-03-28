@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u/6EBtbpcgWxW4o6d/x3WbCjMyXu8E4+xeldHq2L2b988EKrqGnhaxrgIv3O0IENh7OjoHtL64V7jECbu32T9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Foxy\\source\\repos\\CSV Analysis\\CSV Analysis\\CSV Analysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Foxy\\.nuget\\packages\\csvhelper\\31.0.2\\csvhelper.31.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
