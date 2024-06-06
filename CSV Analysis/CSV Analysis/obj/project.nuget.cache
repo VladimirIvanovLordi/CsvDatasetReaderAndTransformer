@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KO/RBBusyna5gCTInyuUWloRXoDWcuxm+6GtSIAkyyYF8L+WfHD7EcrZl8/Sd/sy14COtqZaiaTKf+nVm2bI0Q==",
+  "dgSpecHash": "rxTiTU7PrHY=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\wolfram bs\\second try\\CsvDatasetReaderAndTransformer\\CSV Analysis\\CSV Analysis\\CSV Analysis.csproj",
+  "projectFilePath": "C:\\Users\\Foxy\\!!!MYFOLDER\\University\\Year 4\\Sem 2\\Software Reliability Analysis\\CsvTransformerAndReader\\CsvDatasetReaderAndTransformer\\CSV Analysis\\CSV Analysis\\CSV Analysis.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\s\\.nuget\\packages\\csvhelper\\31.0.2\\csvhelper.31.0.2.nupkg.sha512"
+    "C:\\Users\\Foxy\\.nuget\\packages\\csvhelper\\31.0.2\\csvhelper.31.0.2.nupkg.sha512"
   ],
   "logs": []
 }
