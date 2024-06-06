@@ -125,6 +125,8 @@ namespace CSV_Analysis
 
             //Thread.Sleep(10000);
 
+            config.Delimiter = ",";
+
             using var writerFinal = new StreamWriter(outputPathFinal);
             using var csvOutputFinal = new CsvWriter(writerFinal, config);
 
