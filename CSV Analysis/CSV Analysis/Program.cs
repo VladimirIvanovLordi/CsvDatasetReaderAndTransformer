@@ -59,7 +59,7 @@ namespace CSV_Analysis
             Dictionary<DateTime, int> faultsPerWeek = new Dictionary<DateTime, int>();
             Dictionary<(int, int), int> faultsPerMonth = new Dictionary<(int, int), int>();
 
-            // reducedRecords = reducedRecords.OrderBy(i => i.CreatedAtConverted.Date).ToList();
+            reducedRecords = reducedRecords.OrderBy(i => i.CreatedAtConverted.Date).ToList();
             foreach (var record in reducedRecords)
             {
                 if (faultsPerDay.ContainsKey(record.CreatedAtConverted.Date))
